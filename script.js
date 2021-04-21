@@ -3,3 +3,10 @@ function myGrade() {
       document.getElementById("grade").value = person
      
   }
+
+// For Type 1 questions
+
+
+  var field1 = document.getElementById("field1")
+
+  
